@@ -41,7 +41,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
 <p align="center">
-    <a href="https://telegram.me/THE_VIP_BOY">
+    <a href="https://telegram.me/GOKUxEDITION">
         <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 GOKU🇽Edition™%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 </p>
