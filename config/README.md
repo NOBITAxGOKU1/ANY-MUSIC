@@ -90,20 +90,20 @@ Config vars are basically the variables which configure or modify bot to functio
 - You can change images which are used in VIP Music Bot.
 - You can generate telegaph links from [@VIPTelegraphBot](http://t.me/VIPTelegraphBot) and use it here.
 
-1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
-2. `PING_IMG_URL` : Image which comes on /ping command of bot.
-3. `PLAYLIST_IMG_URL` : Image which comes on /play command of bot. 
-4. `GLOBAL_IMG_URL` : Image which comes on /stats command of bot. 
-5. `STATS_IMG_URL` : Image which comes on /stats command of bot. 
-6. `TELEGRAM_AUDIO_URL` : This image comes when someone plays audios from telegram. 
-7. `TELEGRAM_VIDEO_URL` : This image comes when someone plays videos from telegram. 
-8. `STREAM_IMG_URL` : his image comes when someone plays m3u8 or index links.
-9. `SOUNCLOUD_IMG_URL` : This image comes when someone plays music from soundcloud. 
-10. `YOUTUBE_IMG_URL` : This image comes if thumbnail generator fails to gen thumb anyhow.
-11. `SPOTIFY_ARTIST_IMG_URL` : This image comes when someone plays Spotify artist via link in inline mode. 
-12. `SPOTIFY_ALBUM_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
-13. `SPOTIFY_PLAYLIST_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
-
+1. `START_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+2. `PING_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+3. `PLAYLIST_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+4. `GLOBAL_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+5. `STATS_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+6. `TELEGRAM_AUDIO_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+7. `TELEGRAM_VIDEO_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+8. `STREAM_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+9. `SOUNCLOUD_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+10. `YOUTUBE_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+11. `SPOTIFY_ARTIST_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+12. `SPOTIFY_ALBUM_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+13. `SPOTIFY_PLAYLIST_IMG_URL` : https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg
+14. 
 ## Multi Assistant Mode
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
