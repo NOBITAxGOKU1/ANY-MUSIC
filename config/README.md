@@ -8,14 +8,13 @@ Config vars are basically the variables which configure or modify bot to functio
 
 - These are the minimum required vars need to setup to make VIP Music Bot functional.
 
-1. `API_ID` : Get it from my.telegram.org 
-2. `API_HASH`  : Get it from my.telegram.org 
-3. `BOT_TOKEN` : Get it from [@Botfather](http://t.me/BotFather) in Telegram
-4. `MONGO_DB_URI` : Get mongo db [from here.](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
-5. `LOG_GROUP_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
-6. `OWNER_ID` : Your Owner ID for managing your bot.
-7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@VIP String Bot](http://t.me/VIP_String_roBot) in Telegram.
-
+1. `API_ID` : 22793098
+2. `API_HASH`  : fe39d184efaebc3ee0f451f7d28a93f0
+3. `BOT_TOKEN` : 8189799114:AAEUX_4z6slihPPbyLQwIml6McdnAurW_9U
+4. `MONGO_DB_URI` : mongodb+srv://sachin25u7:sachin25u7@cluster0.6kesm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+5. `LOG_GROUP_ID` : -1002305534434
+6. `OWNER_ID` : 7650874938
+7. `STRING_SESSION` : BQFby4oAhszUHB9ZjPYkiurS7EuWQceFeuGTNthMfB5CqbCH3bRb-KatoqVkt6-3D-QquRFS1ssBEsZJB9nGAyg7QCGStSRKnGq63TdlBkTrVf5s_0hc1Wu5wyxgHqiJxvaWh82z_Fudhc08fF7fJ6gq_StNlRczPOQzoH93JcuLf_nK7AB9uL1co1gZkZEH7G8KscFJNeRLXoMnFRbOqe3-KqyQaSH1_zK1n-N-zXIOL-8YKNkeLeskwyGvNaUaJnuwuG7AUgrAbVYan3RGyjDGXSdnfP9tCl7z5q6Nvbon3pzehIPbHpFok5bQPLKYMRjIVr3smyQuK4eSDxzHVskUuAfa0gAAAABUMA68AA
 
 ## Non-Mandatory Vars
 
