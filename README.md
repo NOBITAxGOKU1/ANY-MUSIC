@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+NOBITA🇽Edition™+🎭">
 
 <p align="center">
-    <img src="https://graph.org/file/096f6d88999670f46aa61-22b1e09efdcc4237d6.jpg">
+    <img src=https://graph.org/file/fcb0e19fe0f334caaeaa1-f8a23bdfd4cb3c2abe.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [NOBITA🇽Edition™](https://t.me/Tune_tokyo_robot)**
